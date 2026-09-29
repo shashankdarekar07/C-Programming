@@ -9,7 +9,6 @@ if (num &gt; 0)
 printf(&quot;%d is a Positive number.\n&quot;, num);
 }
 else if (num &lt; 0)
-
 {
 printf(&quot;%d is a Negative number.\n&quot;, num);
 }
